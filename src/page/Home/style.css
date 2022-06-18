@@ -1,0 +1,13 @@
+.main-container {
+    width: 100%;
+    min-height: calc(100vh - 110px);
+    background: #fff;
+}
+
+.profile {
+    border-bottom: 1px solid #186d4e;
+}
+
+.role{
+    text-transform: capitalize;
+}
